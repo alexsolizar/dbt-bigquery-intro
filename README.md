@@ -39,5 +39,6 @@ dbt test
 
 - [DBT Documentation](https://docs.getdbt.com/docs/introduction)
 - [BigQuery Documentation](https://cloud.google.com/bigquery/docs)
+- Yusuf Ganiyu
 
 Feel free to explore and modify the models as you learn more about DBT and BigQuery!
